@@ -9,7 +9,7 @@ def normalize_price(price_str):
     return float(price_str.replace(" ", "").replace(",", "."))
 
 
-with open("raw.txt", "r", encoding="utf-8") as f:
+with open("practice5/raw.txt", "r", encoding="utf-8") as f:
     text = f.read()
 
 
