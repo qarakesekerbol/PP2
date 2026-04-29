@@ -1,0 +1,7 @@
+{
+  "sound": true,
+  "car_color": "green",
+  "difficulty": "hard",
+  "snake_color": "green",
+  "bg_color": "navy"
+}
