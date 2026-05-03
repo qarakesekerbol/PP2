@@ -24,6 +24,12 @@
     "coins": 36
   },
   {
+    "name": "\u0433\u0433\u0433\u0433",
+    "score": 144,
+    "distance": 530,
+    "coins": 42
+  },
+  {
     "name": "Theerbolll",
     "score": 143,
     "distance": 422,
@@ -52,11 +58,5 @@
     "score": 100,
     "distance": 441,
     "coins": 25
-  },
-  {
-    "name": "\u0435\u0435\u0435",
-    "score": 65,
-    "distance": 218,
-    "coins": 16
   }
 ]
